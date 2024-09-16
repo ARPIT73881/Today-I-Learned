@@ -18,6 +18,7 @@
 ## <a name="introduction">🤖 Introduction</a>
 
 A fun and interactive app where users can share facts and vote on them. It allows users to upvote or downvote each fact while sorting through various categories for easy navigation.
+
 Built with React for the frontend and Supabase for the backend, the app offers a delightful experience with features like sorting and viewing facts by different filters and categories.
 
 ## <a name="techstack">⚙️ Tech Stack</a>
@@ -33,12 +34,19 @@ This website is built using the following technologies:
 ## <a name="features">🔋 Features</a>
 
 - **Fact Sharing**: Users can share interesting facts with the community, contributing to a diverse and engaging collection.
+
 - **Voting System**: Upvote or downvote facts to express opinions and influence which facts are highlighted.
+
 - **Category Sorting**: Sort and filter facts by various categories for easy navigation and discovery.
+
 - **Frontend Built with React**: Provides a dynamic and responsive user interface for an interactive experience.
+
 - **Backend Powered by Supabase**: Ensures reliable and scalable data management and user authentication.
+
 - **Delightful User Experience**: Designed to be engaging and user-friendly, making fact sharing and voting enjoyable.
+
 - **Dynamic Filtering**: View facts by different filters and categories to find content that matches your interests.
+
 - and many more, including code architecture and reusability
 
 ## <a name="contribute"> 🚀 Contributing</a>
