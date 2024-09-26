@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-   <a href="https://today-i-learned-getarpit.netlify.app/" target="_blank"><img src="https://i.ibb.co/JRP4JhY/1.png" alt="Main-Cover" border="0"></a>
+   <a href="https://today-i-learned-getarpit.netlify.app/" target="_blank"><img src="https://github.com/user-attachments/assets/3af01cf9-005b-4d39-becf-39067d222ec2" alt="Main-Cover" border="0"></a>
   <br />
 
 # [Today I Learned](https://today-i-learned-getarpit.netlify.app/)
